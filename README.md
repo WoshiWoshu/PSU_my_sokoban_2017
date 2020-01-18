@@ -1,9 +1,18 @@
 # PSU_my_sokoban_2017
-First year mini project in C in which the goal is to recreate the famous Sokoban Japanese Game with the help of ncurses C library in terminal mode.
+First year mini project in C in which the goal is to recreate the famous Sokoban Japanese Game with the help of ncurses library in terminal mode.
 'X' represent the boxes to move to each 'O' destinations. Walls are represented by '#' and the player by 'P'.
-Use the arrow keys (LEFT, RIGHT, UP and DOWN) to play the game.
 If all boxes are on storage locations, the player wins otherwise, if none of the boxes can be moved anymore, he loses.
 
-! PREREQUISITE ! : ncurses need to be installed.
+PREREQUISITE :
+      
+      ncurses must be installed.
 
-USAGE : 1) Make 2) ./my_sokoban map.txt
+KEY MAPPING:
+
+      Use the arrow keys (LEFT, RIGHT, UP and DOWN) to play the game.
+
+USAGE :
+     
+      Make
+      
+      ./my_sokoban map.txt
