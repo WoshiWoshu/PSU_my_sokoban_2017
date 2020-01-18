@@ -16,3 +16,5 @@ USAGE :
       Make
       
       ./my_sokoban map.txt
+      
+![Image description](cover.png)
